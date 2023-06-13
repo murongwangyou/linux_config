@@ -1,0 +1,11 @@
+[user]
+	name = ysyx_22051689-Yunsong Wu
+	email = 923554232@qq.com
+[core]
+	deitor = vim
+	ui = true
+	excludesfile = /home/wus/.gitignore
+
+
+[alias]
+    graph = log --all --graph --decorate --oneline
